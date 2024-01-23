@@ -21,7 +21,7 @@ public class JavaApplication1 {
         
         System.out.print("загрузка успешно завершена ");
         System.out.println(c1);
-        //
+        ////
         
     }
     
