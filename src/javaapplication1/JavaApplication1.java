@@ -14,10 +14,15 @@ public class JavaApplication1 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+      long l1 = 1_000_000_000L;
+      long l2 = 5L;
+       char c1 = 500;
+       float f1 = 43.2f; 
         
-        System.out.println("загрузка успешно завершена");
-        //t5
+        System.out.print("загрузка успешно завершена ");
+        System.out.println(c1);
+        //
+        
     }
     
 }
